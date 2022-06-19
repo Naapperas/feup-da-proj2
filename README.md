@@ -22,7 +22,7 @@ The program expects the [datasets](../input/datasets) and an outputs folder to b
 
 - **Name**: Desenho de Algoritmos (Algorithm Design)
 - **Date**: Year 2, Semester 2, 2021/22
-* **See also**: [feup-da](https://github.com/ttoino/feup-da), [feup-da-proj1](https://github.com/ttoino/feup-da-proj1)
+* **See also**: [feup-da](https://github.com/Naapperas/feup-da), [feup-da-proj1](https://github.com/Naapperas/feup-da-proj1)
 - [**More info**](https://sigarra.up.pt/feup/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484424)
 
 ## Disclaimer
